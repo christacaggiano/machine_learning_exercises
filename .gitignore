@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+	.DS_Store
+	.sample_breast_cancer_data.zip.icloud
+	sample_breast_cancer_data/
